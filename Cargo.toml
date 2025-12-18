@@ -2,5 +2,6 @@
 members = [
     "ast",
     "ir",
-    "compiler",
+    "compiler", 
+    "modelbuilder",
 ]
